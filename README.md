@@ -58,8 +58,8 @@ done
 ### Notes for algorithms
 
 - For ``seed``, you can set it to any positive integers, since it is task-agnostic and model-agnostic.
-- For ``which_obj``, there is one available option that represent different targets in our paper: ``k``.
-- For ``model_name``, there are few available options that represent different methods: ``RandomForest``, ``CatBoost``, ``LightGBM``, ``XGBoost``, ``AutoSklearn``, ``MLP``, ``CNN``, ``ResNet``, ``FTTransformer``, ``DeepForest``. 
+- For ``target``, there is one available option that represent different targets in our paper: ``k``.
+- For ``model``, there are few available options that represent different methods: ``RandomForest``, ``CatBoost``, ``LightGBM``, ``XGBoost``, ``AutoSklearn``, ``MLP``, ``CNN``, ``ResNet``, ``FTTransformer``, ``DeepForest``. 
 
 ## Contact
 
